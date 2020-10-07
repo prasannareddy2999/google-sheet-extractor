@@ -39,6 +39,8 @@ For extracting the data and for plotting the chart with the values on the sheet,
 ```
 This prints the column names of the spreadsheet and asks  user to select the columns for x-axis and y-axis and plots simple graph(since relation between columns is unknown).
 
+![Image](milky.png)
+
 
 ## License
 
