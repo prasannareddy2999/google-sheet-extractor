@@ -34,6 +34,8 @@ import the library and provide the input to the spreadSheetId and spreadSheetNam
 
 For extracting the data and for plotting the chart with the values on the sheet, call the function xtract by passing googlesheet id and worksheetname as parameters shown below:
 
+
+## Methods
 ```
 	>>> xtract(googleSheetId,worksheetName)
 ```
