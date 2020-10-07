@@ -24,7 +24,7 @@ Open the googlesheet you want to access and get the googleSheet ID` from the lin
 The highlighted part in the above link will be the googleSheet ID
 
 import the library and provide the input to the spreadSheetId and spreadSheetName:
- - spreadSheetName.Spreadheet name can have underscores but should not have space in it 
+ - Spreadheet name can have underscores but should not have space in it. 
 
 ```
     >>> import googlesxtractor.__init__
