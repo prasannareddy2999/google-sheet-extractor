@@ -1,4 +1,4 @@
-# greendeck-assignment2
+# google sheet extractor
 # googlesxtractor 
 
 Extracts data from google sheets and plots a chart with the values on the sheet.It prompts user  to select the required google sheet by askinga googlesheetid (which can be obtained from url) and also provides an option to select theattributes  for x-axis and y-axis by displaying all the columns available 
